@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80094b3a-e2ee-4e34-bb8a-e88ea672ecf1" name="Default Changelist" comment="" />
+    <list default="true" id="80094b3a-e2ee-4e34-bb8a-e88ea672ecf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/init/app/model/location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init/app/service/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init/app/controller/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/init/app/controller/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init/app/controller/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/init/app/controller/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init/app/model/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/init/app/model/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init/app/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/init/app/router.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fUDnbW2iD7VPx2R4T5K9nyCsoz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,15 +34,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue2-demo" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\demo\egg-demo\init\app\model" />
+      <recent name="D:\demo\egg-demo\init\app\controller" />
+      <recent name="D:\demo\egg-demo\init\model" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\demo\egg-demo\init\app" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\demo\egg-demo\init\model" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev">
@@ -87,41 +101,67 @@
       <workItem from="1596266345688" duration="6000" />
       <workItem from="1596266702682" duration="6588000" />
       <workItem from="1596274173664" duration="313000" />
+      <workItem from="1596289320641" duration="168000" />
+      <workItem from="1596330700978" duration="20425000" />
     </task>
+    <task id="LOCAL-00001" summary="egg-demo">
+      <created>1596289403253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596289403253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="egg-demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="egg-demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1267" y="310" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596272262272">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="1267" y="310" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1122@0.0.2048.1122" timestamp="1596272262272" />
-    <state x="1069" y="280" key="FileChooserDialogImpl" timestamp="1596269353029">
+    <state x="623" y="128" key="CommitChangelistDialog2" timestamp="1596289402243">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="1069" y="280" key="FileChooserDialogImpl/0.0.2048.1122@0.0.2048.1122" timestamp="1596269353029" />
-    <state width="982" height="309" key="GridCell.Tab.0.bottom" timestamp="1596274492400">
+    <state x="623" y="128" key="CommitChangelistDialog2/0.0.2048.1122@0.0.2048.1122" timestamp="1596289402243" />
+    <state x="1069" y="280" key="FileChooserDialogImpl" timestamp="1596331663614">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state width="982" height="309" key="GridCell.Tab.0.bottom/0.0.2048.1122@0.0.2048.1122" timestamp="1596274492400" />
-    <state width="982" height="309" key="GridCell.Tab.0.center" timestamp="1596274492400">
+    <state x="1069" y="280" key="FileChooserDialogImpl/0.0.2048.1122@0.0.2048.1122" timestamp="1596331663614" />
+    <state width="1152" height="310" key="GridCell.Tab.0.bottom" timestamp="1596347829493">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state width="982" height="309" key="GridCell.Tab.0.center/0.0.2048.1122@0.0.2048.1122" timestamp="1596274492400" />
-    <state width="982" height="309" key="GridCell.Tab.0.left" timestamp="1596274492400">
+    <state width="1152" height="310" key="GridCell.Tab.0.bottom/0.0.2048.1122@0.0.2048.1122" timestamp="1596347829493" />
+    <state width="1152" height="310" key="GridCell.Tab.0.center" timestamp="1596347829493">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state width="982" height="309" key="GridCell.Tab.0.left/0.0.2048.1122@0.0.2048.1122" timestamp="1596274492400" />
-    <state width="982" height="309" key="GridCell.Tab.0.right" timestamp="1596274492400">
+    <state width="1152" height="310" key="GridCell.Tab.0.center/0.0.2048.1122@0.0.2048.1122" timestamp="1596347829493" />
+    <state width="1152" height="310" key="GridCell.Tab.0.left" timestamp="1596347829493">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state width="982" height="309" key="GridCell.Tab.0.right/0.0.2048.1122@0.0.2048.1122" timestamp="1596274492400" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1596274462035">
+    <state width="1152" height="310" key="GridCell.Tab.0.left/0.0.2048.1122@0.0.2048.1122" timestamp="1596347829493" />
+    <state width="1152" height="310" key="GridCell.Tab.0.right" timestamp="1596347829493">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.2048.1122@0.0.2048.1122" timestamp="1596274462035" />
+    <state width="1152" height="310" key="GridCell.Tab.0.right/0.0.2048.1122@0.0.2048.1122" timestamp="1596347829493" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1596352328588">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.2048.1122@0.0.2048.1122" timestamp="1596352328588" />
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1596289435622">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2/0.0.2048.1122@0.0.2048.1122" timestamp="1596289435622" />
+    <state x="826" y="467" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596289367905">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="826" y="467" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2048.1122@0.0.2048.1122" timestamp="1596289367905" />
     <state x="1149" y="274" width="672" height="678" key="search.everywhere.popup" timestamp="1596270230817">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
