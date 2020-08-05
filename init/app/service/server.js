@@ -25,7 +25,7 @@ class ServerService extends Service {
 
     getOne(id, ci) {
         const {ctx} = this
-        return ctx.model[str(ci)].findById(id).populate('location')
+        return ctx.model[str(ci)].findById(id).populate('location','name _id')
     }
 
     getAll(query, ci) {
